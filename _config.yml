@@ -8,8 +8,6 @@ url: ""
 twitter_username: deruni
 github_username: mtnzorlu
 
-theme: duru
-
 
 plugins:
   - jekyll-feed
