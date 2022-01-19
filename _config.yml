@@ -1,0 +1,16 @@
+title: "Your Awesome Title"
+name: "Duru"
+email: metinzorlu@msn.com 
+description: Kişisel blog
+
+baseurl: "" 
+url: "" 
+twitter_username: deruni
+github_username: mtnzorlu
+
+theme: duru
+
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
