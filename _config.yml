@@ -3,7 +3,7 @@ name: "Duru"
 email: metinzorlu@msn.com 
 description: Kişisel blog
 
-baseurl: "duru" 
+baseurl: "" 
 url: "" 
 twitter_username: deruni
 github_username: mtnzorlu
